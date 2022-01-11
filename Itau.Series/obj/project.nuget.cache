@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lle+PCHqGgZERSszbxQ9ghFm7Ru/Yxv0BYMOgsjJ5VL5nF4ITeLao/6CrC3a9KdgXpKjnpj+wduv5Zb5f4lbjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\Itau.Series\\Itau.Series\\Itau.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

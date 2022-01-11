@@ -1,0 +1,16 @@
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.exe
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.deps.json
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.runtimeconfig.json
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.dll
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\ref\Itau.Series.dll
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\bin\Debug\net5.0\Itau.Series.pdb
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.dll
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\ref\Itau.Series.dll
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.pdb
+C:\Users\Pichau\source\repos\Itau.Series\Itau.Series\obj\Debug\net5.0\Itau.Series.genruntimeconfig.cache

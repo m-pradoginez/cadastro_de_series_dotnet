@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Series", "Itau.Series\Itau.Series.csproj", "{35DE983E-6A6A-4EBB-9234-4292C932E69C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DE983E-6A6A-4EBB-9234-4292C932E69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DE983E-6A6A-4EBB-9234-4292C932E69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DE983E-6A6A-4EBB-9234-4292C932E69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DE983E-6A6A-4EBB-9234-4292C932E69C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15BB4A54-1F44-4540-B694-854E2B3F39BC}
+	EndGlobalSection
+EndGlobal
